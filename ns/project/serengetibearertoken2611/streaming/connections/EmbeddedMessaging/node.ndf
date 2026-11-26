@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.serengetibearertoken2611.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">SerengetiBearertoken2611Project</value>
+  <value name="is_public">false</value>
+  <value name="assetId">SerengetiBearertoken2611Project.project.serengetibearertoken2611.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://stage00-test593854-um-0.int-test593854.svc.cluster.local:9000/</value>
+  <value name="clientId">EM34ec9b813b2d40b9bac9ff3130163db3</value>
+  <value name="securityProtocol"></value>
+  <value name="additionalProperties"></value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Arti.Khare@ibm.com</value>
+    <value name="createdDate">2026-11-26T05:00:44.150922480Z</value>
+    <value name="modifiedBy">Arti.Khare@ibm.com</value>
+    <value name="lastModifiedDate">2026-11-26T05:00:44.150922480Z</value>
+  </record>
+</Values>

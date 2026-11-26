@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <array name="StreamingConfiguration" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="name">SerengetiBearertoken2611Project_project.serengetibearertoken2611.streaming.connections:EmbeddedMessaging</value>
+        <value name="description">This is the default embedded messaging account</value>
+        <value name="package">SerengetiBearertoken2611Project</value>
+        <value name="type">kafka</value>
+        <value name="clientId">EM34ec9b813b2d40b9bac9ff3130163db3</value>
+        <value name="enabled">true</value>
+        <value name="other_properties"></value>
+        <value name="dynamic_properties">bootstrap.servers=nhp://stage00-test593854-um-0.int-test593854.svc.cluster.local:9000/</value>
+        <value name="securityProtocol"></value>
+        <null name="truststoreAlias"/>
+        <null name="keystoreAlias"/>
+        <null name="keystoreKeyAlias"/>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>
